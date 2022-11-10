@@ -1,0 +1,23 @@
+{
+  "id": 101,
+  "name": "Testowy",
+  "username": "Testowy",
+  "email": "Sincere@april.biz",
+  "address": {
+    "street": "Testowy Light",
+    "suite": "Apt. 556",
+    "city": "Testowy",
+    "zipcode": "92998-3874",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "1-770-736-8031 x56442",
+  "website": "Testowy.org",
+  "company": {
+    "name": "Testowy-Crona",
+    "catchPhrase": "Multi-Testowy client-server neural-net",
+    "bs": "Testowy real-time e-markets"
+  }
+}
