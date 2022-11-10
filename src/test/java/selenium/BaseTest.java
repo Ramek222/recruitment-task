@@ -17,7 +17,7 @@ public class BaseTest {
     public void setUp() {
 
         WebDriverManager.chromedriver().setup();
-        driver = DriverFactory.getDriver(Browser.EDGE);
+        driver = DriverFactory.getDriver(Browser.CHROME);
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
         driver.get("http://skleptest.pl/");
